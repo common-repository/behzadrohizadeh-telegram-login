@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Telegram Login\n"
+"POT-Creation-Date: 2018-02-11 05:56-0800\n"
+"PO-Revision-Date: 2018-02-11 05:56-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-telegram-login.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wp-telegram-login.php:58
+msgid "Telegram Login"
+msgstr ""
+
+#: wp-telegram-login.php:79
+msgid "Type Register"
+msgstr "نوع عضویت"
+
+#: wp-telegram-login.php:89
+msgid "Telegram"
+msgstr "تلگرام"
+
+#: wp-telegram-login.php:92
+msgid "Website"
+msgstr "وب سایت"
+
+#: wp-telegram-login.php:185
+msgid "Bot Username"
+msgstr "نام ربات"
+
+#: wp-telegram-login.php:192
+msgid "Bot Token"
+msgstr "توکن ربات"
+
+#: wp-telegram-login.php:198
+msgid "Size Button"
+msgstr "اندازه دکمه"
+
+#: wp-telegram-login.php:206
+msgid "Show User Photo"
+msgstr "نمایش عکس ربات"
+
+#: wp-telegram-login.php:212
+msgid "User Role When Login"
+msgstr "نقش کاربری هنگام ورود"
+
+#: wp-telegram-login.php:228
+msgid "Redirect Url After Login"
+msgstr "انتقال به ادرس بعد از ورود"
+
+#: wp-telegram-login.php:235
+msgid "Update"
+msgstr " بروزرسانی"
+
+#: wp-telegram-login.php:242
+msgid "Steps Configration"
+msgstr "مراحل تنظیمات"
+
+#: wp-telegram-login.php:243
+msgid "Create New Bot By @Botfather"
+msgstr "ساخت ربات با ربات ساز @Botfather"
+
+#: wp-telegram-login.php:247
+msgid ""
+"send the /setdomain command to @Botfather to link your website,s domain to "
+"the bot. Then configure your widget by on top options."
+msgstr ""
+"کامند /setdomain  را در ربات ساز @Botfather بفرستید و ادرس سایت خود را برای "
+"ربات ساخته شده تنظیم کنید  .  تنظیمات بالا را نیز  تکمیل کنید "
+
+#: wp-telegram-login.php:250
+msgid "Use Shortcode [lg-telegram] For Show Button"
+msgstr " از کد کوتاه  [lg-telegram] برای نمایش دکمه استفاده کنید"
+
+#. Plugin Name of the plugin/theme
+msgid "Tg Login And Register"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://linkyab.net"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin for login And Register with telegram messanger Account"
+msgstr "یک افزونه برای لاگین و عضویت در سایت از طریق اکانت تلگرام "
+
+#. Author of the plugin/theme
+msgid "Behzad Rohizadeh"
+msgstr "بهزاد روحی زاده "
+
+#. Author URI of the plugin/theme
+msgid "http://linkyab.net/contact-us/"
+msgstr ""
+
+#~ msgid "Steps"
+#~ msgstr "مراحل "
+
+#~ msgid "replace default words"
+#~ msgstr "واژه نگار"
+
+#~ msgid "RDW"
+#~ msgstr "واژه نگار"
+
+#~ msgid "Delete"
+#~ msgstr "پاک کردن"
+
+#~ msgid "Deleted"
+#~ msgstr "Deleted"
+
+#~ msgid "Successfully added"
+#~ msgstr "با موفقیت اضافه شد."
+
+#~ msgid "Saved"
+#~ msgstr "با موفقیت در مسیر رسانه ذخیره شد"
+
+#~ msgid "View file"
+#~ msgstr "تماشای فایل"
+
+#~ msgid "The file undefined "
+#~ msgstr "لطفا نشانی فایل پشتیبان (xml) را وارد کنید."
+
+#~ msgid "Wordpress Plugin Development"
+#~ msgstr "طراحی و توسعه افزونه‌های اختصاصی وردپرس"
+
+#~ msgid "Enter the default word"
+#~ msgstr "واژه‌ی پیش‌فرض را وارد کنید"
+
+#~ msgid "Enter the new word"
+#~ msgstr "واژه‌ی تازه را وارد کنید"
+
+#~ msgid "Add"
+#~ msgstr "افزودن"
+
+#~ msgid "Import xml file"
+#~ msgstr "درون ریزی فایل پشتیبان (xml)"
+
+#~ msgid "Enter url xml file"
+#~ msgstr "نشانی فایل پشتیبان را وارد کنید"
+
+#~ msgid "Submit"
+#~ msgstr "ارسال درخواست"
+
+#~ msgid "Export"
+#~ msgstr "برون ریزی"
+
+#~ msgid "Number"
+#~ msgstr "شماره"
+
+#~ msgid "Default word"
+#~ msgstr "واژه‌ی پیش‌فرض"
+
+#~ msgid "New word"
+#~ msgstr "واژه‌ی تازه"
+
+#~ msgid "Field is not posted"
+#~ msgstr "زمینه ارسال نشده است."
+
+#~ msgid "Edited successfully"
+#~ msgstr "با موفقیت ویرایش شد"
+
+#~ msgid "Error editing"
+#~ msgstr "خطا در ویرایش"
+
+#~ msgid "Mandegarweb Team"
+#~ msgstr "گروه ماندگار وب"
+
+#~ msgid "Replace Default Words"
+#~ msgstr "واژه نگار"
+
+#~ msgid "Replace the default words in the core, plugins and themes"
+#~ msgstr "جایگزین کردن واژه‌های پیش‌فرض در هسته، افزونه‌ها و پوسته‌های وردپرس"
